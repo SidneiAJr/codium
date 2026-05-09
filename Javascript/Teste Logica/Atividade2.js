@@ -1,9 +1,9 @@
 // Objeto de Pessoas
-let pessoa = [{
-    nome:"pedro",idade: 11,
-    nome: "Juliana", idade: 20,
-    nome: "Jorge",idade: 15
-}];
+let pessoa = [
+    {nome:"pedro",idade: 11},
+    {nome: "Juliana", idade: 20},
+    {nome: "Jorge",idade: 15}
+];
 
 //Usando Filtrer
 let maiores = pessoa.filter(p=>p.idade>=18);
