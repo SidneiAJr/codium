@@ -1,0 +1,9 @@
+* LEGADO
+PROCEDURE DIVISION.
+    IF STATUS-CONTA = "A"
+        DISPLAY "OK"
+    ELSE
+        IF STATUS-CONTA = "3"
+            DISPLAY "BLOQUEADO"
+        END-IF
+    END-IF.
