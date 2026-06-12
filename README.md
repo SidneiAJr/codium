@@ -1,6 +1,6 @@
 # 🧪 Laboratorium Codium | Codigo Cru & Refatorar
 
-## Observação
+## 👁 Observação
 
 ### 🚧 Este **não é** um repositório de portfólio.  
 
