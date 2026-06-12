@@ -1,12 +1,13 @@
 # 🧪 Laboratorium Codium | Codigo Cru & Refatorar
 
+## Observação
+
+🚧 Este **não é** um repositório de portfólio.  
+
 ## **Bem-vindo ao Laboratorium** 🧑‍🍳🔪
 
 Este repositório é meu **laboratório pessoal de aprendizado em programação**.  
 Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre diversas linguagens e conceitos.
-
-## Observação
-- 🚧 Este **não é** um repositório de portfólio.  
 
 > É um espaço para **errar, testar, refatorar e aprender na prática**.
 
