@@ -17,9 +17,9 @@ import lombok.ToString;
 public class a {
     public static void main(String[] args) {
          Usuario usuario = Usuario.builder()
-            .nome("João Silva")
-            .email("joao@email.com")
-            .senha("senha123")
+            .nome("")
+            .email("")
+            .senha("")
             .datacriacao(LocalDateTime.now())
             .build();
         
