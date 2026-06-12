@@ -1,4 +1,4 @@
-# 🧪 Laboratorium | Codigo Cru & Refatorar
+# 🧪 Laboratorium Codium | Codigo Cru & Refatorar
 
 ## **Bem-vindo ao Laboratorium** 🧑‍🍳🔪
 
