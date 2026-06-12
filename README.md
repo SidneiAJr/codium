@@ -1,6 +1,6 @@
-# 🧪 Codigo cru dos guri – Estudos, Testes e Experimentos
+# 🧪 Laboratorium | Codigo Cru & Refatorar
 
-## **Bem-vindo ao açougue do conhecimento.** 🧑‍🍳🔪
+## **Bem-vindo ao Laboratorium** 🧑‍🍳🔪
 
 Este repositório é meu **laboratório pessoal de aprendizado em programação**.  
 Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre diversas linguagens e conceitos.
@@ -19,7 +19,7 @@ Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre
 
 ---
 
-## ⚙️ O que tem na bagaça
+## ⚙️ O que encontra | Aqui
 
 | Linguagem | O que tão fazendo |
 |-----------|-------------------|
@@ -34,10 +34,12 @@ Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre
 
 ---
 
-## 🧠 Filosofia do rolê
+## 🧠 Filosofia do Repositorio
 
 > Código de estudo não precisa ser lindo.  
 > Precisa ser **experimentado, quebrado e entendido**.
+> Codigo sem Pacote
+> Codigo Bagunçado
 
 Aqui os guri:
 - 🤜 Erram feio
@@ -45,7 +47,7 @@ Aqui os guri:
 - 👊 Refatoram até ficar menos pior
 - 🧠 Guardam o aprendizado
 
-## 📌 Aviso aos navegantes
+## ⚠ Aviso 
 
 Se você caiu aqui esperando:
 - código pronto
