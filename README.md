@@ -2,7 +2,7 @@
 
 ## Observação
 
-🚧 Este **não é** um repositório de portfólio.  
+### 🚧 Este **não é** um repositório de portfólio.  
 
 ## **Bem-vindo ao Laboratorium** 🧑‍🍳🔪
 
