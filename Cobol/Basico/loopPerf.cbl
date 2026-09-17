@@ -1,0 +1,3 @@
+PERFORM 3 TIMES
+    DISPLAY "Olá Pedro!"
+END-PERFORM.
